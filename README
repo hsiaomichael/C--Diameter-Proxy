@@ -1,0 +1,10 @@
+Diameter Proxy , accept diameter request  , send to remote diameter servcer
+ 
+pre-request : g++,pthread lib installed 
+
+1. make
+2. chmod +x run.sh
+3. vi Proxy.cfg for ip address and port number
+4. ./run.sh
+
+
